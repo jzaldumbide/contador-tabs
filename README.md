@@ -468,6 +468,4 @@ Estas mejoras son ejercicios adicionales y no funcionalidades implementadas:
 - [Plugin Splash Screen](https://capacitorjs.com/docs/apis/splash-screen)
 - [Generador de iconos y splash screens](https://github.com/ionic-team/capacitor-assets)
 
-## Licencia
 
-La revisión del repositorio no contiene un archivo `LICENSE`. Si se desea distribuir el proyecto bajo una licencia específica, debe incorporarse explícitamente; este README no asigna una licencia por su cuenta.
